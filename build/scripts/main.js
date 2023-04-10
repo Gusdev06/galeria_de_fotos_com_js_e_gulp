@@ -1,0 +1,1 @@
+let searchBox=document.querySelector("#search-box"),images=document.querySelectorAll(".container .container-image .image");searchBox.ಠ_ಠ531=()=>{images.forEach(e=>e.style.ಠ_ಠ532="none");let t=searchBox.value;images.forEach(e=>{var ಠ_ಠ530=e.getAttribute("data-title");t==ಠ_ಠ530&&(e.style.ಠ_ಠ532="block"),""==searchBox.value&&(e.style.ಠ_ಠ532="block")})};
